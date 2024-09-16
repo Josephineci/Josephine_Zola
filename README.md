@@ -1,4 +1,4 @@
-# Hi there, I'm Josephine 👋🏾
+# Josephine is my name and automation is my aim 👩🏾‍💻
 <a href="https://www.linkedin.com/in/josephinezola/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a dedicated Platform Engineer and Kubernetes Administrator, passionate about helping businesses enhance their applications' efficiency and performance through automated solutions. 
@@ -11,15 +11,53 @@ I'm a dedicated Platform Engineer and Kubernetes Administrator, passionate about
 I have a keen interest in automation and security and have pursued a dynamic career path from System Administrator to Kubernetes Administrator, gaining valuable experience along the way. 
 My goal is to continue advancing in my profession by leveraging my expertise in automation and AI to contribute to innovative projects within the Fintech and Edtech sectors.
 
-## Skills
- | Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| 10 Tier Microservice Application Hosted on EKS  | <a href="https://github.com/Josephineci/10_Tier_Microservices_App/blob/main/README.md">10 Tier Microservice Application Hosted on EKS</a>|
-| Provisioning a Kubernetes Muli-Cluster with Kubeadm | <a href="https://google.com">Provisioning a Kubernetes Muli-Cluster with Kubeadm</a>|
-| Deploying a Spring Boot Application on Kubernetes   | |
-| Twiga WhatsApp ChatBot                              | <a href="https://github.com/jurmy24/twiga" target="_blank">Twiga</a>|
-| ..                                                  | |
-| ...                                                 | |
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skills and Projects Table</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Skills and Associated Projects</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Skill</th>
+            <th>Associated Project</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>10 Tier Microservice Application Hosted on EKS</td>
+            <td><a href="https://github.com/Josephineci/10_Tier_Microservices_App/blob/main/README.md">10 Tier Microservice Application Hosted on EKS</a></td>
+        </tr>
+        <tr>
+            <td>Twiga WhatsApp ChatBot</td>
+            <td><a href="https://google.com">Provisioning a Kubernetes Multi-Cluster with Kubeadm</a></td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
 
 ## Tools
 
