@@ -1,13 +1,11 @@
 # Josephine is my name and automation is my aim 👩🏾‍💻
-## Reach out to me
+I'm a dedicated Platform Engineer and Kubernetes Administrator, passionate about helping businesses enhance their applications' efficiency and performance through automated solutions. 
+
+##### Reach out to me
 <a href="https://www.linkedin.com/in/josephinezola/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="mailto:cindiajosephine@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-
-
-
-I'm a dedicated Platform Engineer and Kubernetes Administrator, passionate about helping businesses enhance their applications' efficiency and performance through automated solutions. 
 
 ## Objective
 I have a keen interest in automation and security and have pursued a dynamic career path from System Administrator to Kubernetes Administrator, gaining valuable experience along the way. 
