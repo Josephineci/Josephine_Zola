@@ -3,10 +3,6 @@
 
 I'm a dedicated Platform Engineer and Kubernetes Administrator, passionate about helping businesses enhance their applications' efficiency and performance through automated solutions. 
 
-<a href="https://images.app.goo.gl/MzDgZfzHA81A17Fq6" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg" alt="DevOps Image" width="300" height="200" >
-</a>
-
 ## Objective
 I have a keen interest in automation and security and have pursued a dynamic career path from System Administrator to Kubernetes Administrator, gaining valuable experience along the way. 
 My goal is to continue advancing in my profession by leveraging my expertise in automation and AI to contribute to innovative projects within the Fintech and Edtech sectors.
