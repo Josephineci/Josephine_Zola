@@ -14,12 +14,12 @@ My goal is to continue advancing in my profession by leveraging my expertise in 
 ## Skills
  | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| 10 Tier Microservice Application Hosted on EKS  | <a href="https://google.com">Detection Lab</a>|
-| Provisioning a Kubernetes Muli-Cluster with Kubeadm | <a href="https://google.com">Detection Lab</a>|
-| Deploying a Spring Boot Application on Kubernetes   | SOC Automation Lab|
-|..                                                   | SOC Automation Lab|
-| ..                                                  | SOC Automation Lab|
-| ...                                                 | SOC Automation Lab|
+| 10 Tier Microservice Application Hosted on EKS  | <a href="https://github.com/Josephineci/10_Tier_Microservices_App/blob/main/README.md">10 Tier Microservice Application Hosted on EKS</a>|
+| Provisioning a Kubernetes Muli-Cluster with Kubeadm | <a href="https://google.com">Provisioning a Kubernetes Muli-Cluster with Kubeadm</a>|
+| Deploying a Spring Boot Application on Kubernetes   | |
+| Twiga WhatsApp ChatBot                              | <a href="https://github.com/jurmy24/twiga" target="_blank">Twiga</a>|
+| ..                                                  | |
+| ...                                                 | |
 
 ## Tools
 
@@ -69,5 +69,5 @@ My goal is to continue advancing in my profession by leveraging my expertise in 
 
 
 ## Projects 
-<a href="https://github.com/jurmy24/twiga" target="_blank">Twiga Project</a> WhatsApp chatbot, designed specifically for Tanzanian teachers, enhances the educational experience by providing access to generative AI
-
+- <a href="https://github.com/Josephineci/10_Tier_Microservices_App/blob/main/README.md">10 Tier Microservice Application Hosted on EKS</a>
+- <a href="https://github.com/jurmy24/twiga" target="_blank">Twiga Project</a> 
