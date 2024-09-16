@@ -12,7 +12,6 @@ I have a keen interest in automation and security and have pursued a dynamic car
 My goal is to continue advancing in my profession by leveraging my expertise in automation and AI to contribute to innovative projects within the Fintech and Edtech sectors.
 
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -51,7 +50,7 @@ My goal is to continue advancing in my profession by leveraging my expertise in 
         </tr>
         <tr>
             <td>Twiga WhatsApp ChatBot</td>
-            <td><a href="https://google.com">Provisioning a Kubernetes Multi-Cluster with Kubeadm</a></td>
+            <td><a href="https://github.com/jurmy24/twiga" target="_blank">Twiga ChatBot</a></td>
         </tr>
     </tbody>
 </table>
