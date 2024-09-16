@@ -60,6 +60,14 @@ My goal is to continue advancing in my profession by leveraging my expertise in 
     <img src="https://img.shields.io/badge/-Python-FFFFFF?style=for-the-badge&logo=Python&logoColor=007ACC&color=F7DF1E" alt="Python Badge" />
 </div>
 
+## Certifications:
+<div>
+    <img src="https://img.shields.io/badge/-Professional_Scrum_Master-ADD8E6?style=for-the-badge&logo=Scrum&logoColor=white" alt="Professional Scrum Master Badge" />
+    <img src="https://img.shields.io/badge/-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" alt="Certified Kubernetes Administrator Badge" />
+
+</div> (CKA in progress)
+
+
 ## Projects 
 <a href="https://github.com/jurmy24/twiga" target="_blank">Twiga Project</a> WhatsApp chatbot, designed specifically for Tanzanian teachers, enhances the educational experience by providing access to generative AI
 
