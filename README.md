@@ -45,8 +45,8 @@ My goal is to continue advancing in my profession by leveraging my expertise in 
     </thead>
     <tbody>
         <tr>
-            <td>10 Tier Microservice Application Hosted on EKS</td>
-            <td><a href="https://github.com/Josephineci/10_Tier_Microservices_App/blob/main/README.md">10 Tier Microservice Application Hosted on EKS</a></td>
+            <td>SpringBoot App K8s</td>
+            <td><a href="https://github.com/Josephineci/Spring_boot_K8s/blob/main/README.md">SpringBoot App K8s</a></td>
         </tr>
         <tr>
             <td>Twiga WhatsApp ChatBot</td>
@@ -106,5 +106,5 @@ My goal is to continue advancing in my profession by leveraging my expertise in 
 
 
 ## Projects 
-- <a href="https://github.com/Josephineci/10_Tier_Microservices_App/blob/main/README.md">10 Tier Microservice Application Hosted on EKS</a>
+- <a href="https://github.com/Josephineci/Spring_boot_K8s/blob/main/README.md">SpringBoot App K8s</a>
 - <a href="https://github.com/jurmy24/twiga" target="_blank">Twiga Project</a> 
