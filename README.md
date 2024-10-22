@@ -1,4 +1,4 @@
-# Josephine is my name, and Automation is my Aim
+# Josephine is my name, and Automation is my Aim 👩🏾‍💻
 <a href="https://www.linkedin.com/in/josephinezola/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a dedicated Platform Engineer and Kubernetes Administrator, passionate about helping businesses enhance their applications' efficiency and performance through automated solutions. I'm currently enrolled in a graduate certificate program in Cybersecurity Technology at the University of Maryland.
@@ -48,11 +48,7 @@ I’m a team player. I value building solid and honest relationships with client
 - Graduate Certificate in Cybersecurity – May 2025
 - Certified Kubernetes Administrator (CKA) – In Progress
 
-## Skills                                             
-|-----------------------------------------------|----------------------------|
-| Kubernetes, Github Actions, Docker, Terraform, Python, Communication, Leadership | Various |
-
-## Tools
+## Skills
 
 ### Container Management
 <div>
