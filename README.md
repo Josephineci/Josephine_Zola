@@ -6,6 +6,7 @@ I'm a dedicated Platform Engineer and Kubernetes Administrator, passionate about
 <a href="mailto:cindiajosephine@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
+
 ##### Resume
 <!DOCTYPE html>
 <html lang="en">
@@ -97,7 +98,6 @@ I'm a dedicated Platform Engineer and Kubernetes Administrator, passionate about
 ## Objective
 I have a keen interest in automation and security and have pursued a dynamic career path from System Administrator to Kubernetes Administrator, gaining valuable experience along the way. 
 My goal is to continue advancing in my profession by leveraging my expertise in automation and AI to contribute to innovative projects within the Fintech and Edtech sectors.
-
 
 <html lang="en">
 <head>
