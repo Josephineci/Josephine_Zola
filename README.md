@@ -1,38 +1,39 @@
-# Josephine is my name, and Automation is my Aim 👩🏾‍💻
+# J.Zola is my name, and Automation is my Aim 👩🏾‍💻
 <a href="https://www.linkedin.com/in/josephinezola/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a dedicated Platform Engineer and Kubernetes Administrator, passionate about helping businesses enhance their applications' efficiency and performance through automated solutions. I'm currently enrolled in a graduate certificate program in Cybersecurity Technology at the University of Maryland.
+I'm a DevSecOps/Security Analyst passionate about helping businesses enhance their applications' security and performance through automated solutions. I'm currently enrolled in a graduate certificate program in Cybersecurity Technology at the University of Maryland.
 
 <a href="https://images.app.goo.gl/MzDgZfzHA81A17Fq6" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg" alt="DevOps Image" width="300" height="200" >
 </a>
 
 ## Professional Summary
-Growing up in a TV-free household, I developed a love for puzzles, sparking my interest in automation and security. This led me to embark on self-financed learning journeys, such as becoming a System Administrator whilst being a full-time student, transitioning to a role as Junior DevOps Engineer to today as a Kubernetes Administrator working on projects that are the intersection of AI and software engineering.
+Growing up in a TV-free household, I developed a love for puzzles, sparking my interest in security and automation. This led me to embark on self-financed learning journeys, such as becoming a System Administrator whilst being a full-time student, transitioning to a role as Junior DevOps Engineer to today as a Security Analyst working on projects reducing system vulnerabilities, enforcing secuirty policies, and optimzing scalability.
 
 A proactive, analytical, and versatile professional with diverse experience brainstorming and developing solutions for complex business problems in a variety of industries and domains.
 
 I’m a team player. I value building solid and honest relationships with clients and colleagues at all levels of organizations.
 
 ## Experience
+**Cybersecurity Analyst (Intern), University of Maryland** (October 2024-current)
+- Analyzed network activity (PCAP file) for anomalies using Wireshark, reducing security breaches by 20%
+- Identified using Nessus and patched 50 + outdated software packages, reducing system vulnerability by 25%.
+- Investigated recurring exfiltration of the organization’s files, identified unknown IP addresses, and mitigated security threats, resulting in a 15% reduction in risks.
+- Managed VPN groups and resources.
+
 **Platform Engineer, Sigma Financial AI** (Aug 2023 – May 2024)
-- Designed and maintained CI/CD pipelines to automate the build, test, and deployment processes with Github CI.
-- Developed metrics and maintained monitoring and observability solutions using tools like Datadog.
-- Inspected and built Kubernetes clusters improving system reliability/security by 90%.
-- Integrated Helm charts for the definition of Kubernetes resources.
-- Built dedicated Rust Docker Files for increased security and code quality.
-- Led the successful migration for 110+ servers from on-premises to AWS (EC2 & RDS) cloud-based infrastructure, reducing operational costs by 30%.
-- Configured and troubleshooted Kubernetes CNI plugin-related failures.
-- Monitored and troubleshooted pipeline failures, health, and states of services and applications (Kubernetes pods/containers) across different environments, ensuring minimal downtime.
+- Managed security settings in firewalls/IPS systems improving system reliability/security by 30%.
+- Created isolated namespaces, role base access controls (RBAC), network polices in Kubernetes, reducing exploitable attack vectors by 30%.
+- Led the successful migration for 25+ servers from on-premises to AWS (EC2 & RDS) cloud-based infrastructure, resulting in a reducing operational cost by 18%. 
+- Monitored and troubleshooted pipeline failures, health and states of services and applications (Kubernetes pods/containers) across different environments ensuring minimal downtime by 20%.
+- Designed and maintain CI/CD pipelines to automate the build, test, and deployment processes with Github CI.
 
 **Jr DevOps Engineer, Unisys** (Feb 2020 – May 2022)
-- Identified and eliminated manual, repetitive tasks through automation, developed Python scripts, and used Terraform to automate infrastructure management, configuration, and maintenance.
-- Built DevOps pipeline with Jenkins and Github CI.
-- Created network policies to control pod communication with various network entities.
-- Improved build speed by 40% by implementing AWS ECR Pull-through Cache.
-- Built Lambda functions to create alerts integrated with Github webhook.
-- Built application performance monitoring and alerting dashboards on Datadog, resolving over 100 system issues.
-- Automated the provisioning of AWS compute services (EC2, ECS) using Terraform, resulting in a 30% increase in system efficiency.
+- Created Network policies to control pod communication, reducing network latency by 15-18%
+- Automated the provisioning of AWS compute services (EC2, ECS) using Terraform for faster deployment and rollback resulting in a 30% increase in system efficiency.
+- Identified and eliminated manual, repetitive tasks through automation, develop Python scripts and used Terraform to automate infrastructure management, configuration, and maintenance.
+- Improved build speed by 25% by implementing AWS ECR Pull-through Cache
+- Built application performance monitoring and alerting dashboards on DataDog resolving 100+ systems errors on time, improving application downtime by 20%.
 
 **System Administrator, Howard University** (Mar 2018 – Mar 2019)
 - Collaborated with developers to establish practices for deploying and managing apps using containerization tech like Docker and Nomad for reliable and scalable app deployment.
@@ -43,9 +44,9 @@ I’m a team player. I value building solid and honest relationships with client
 - Troubleshooted, diagnosed, and remediated technical issues (system downtime, network failures, latency issues, build errors).
 
 ## Education
+- Graduate Certificate in Cybersecurity – May 2025
 - Master’s Degree, Information Technology & Project Management, University of Maryland – August 2023
 - Bachelor’s Degree, Human Health and Performance, Howard University – May 2020
-- Graduate Certificate in Cybersecurity – May 2025
 - Certified Kubernetes Administrator (CKA) – In Progress
 
 ## Skills
@@ -92,10 +93,6 @@ I’m a team player. I value building solid and honest relationships with client
     <img src="https://img.shields.io/badge/-Professional_Scrum_Master-ADD8E6?style=for-the-badge&logo=Scrum&logoColor=white" alt="Professional Scrum Master Badge" />
     <img src="https://img.shields.io/badge/-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" alt="Certified Kubernetes Administrator Badge" />
 </div> (CKA in progress)
-
-## Projects 
-- <a href="https://github.com/Josephineci/Spring_boot_K8s/blob/main/README.md">SpringBoot App K8S</a>
-- <a href="https://github.com/jurmy24/twiga" target="_blank">Twiga Project</a>
 
 ## Languages
 - English, French, Spanish, Swahili (basic)
